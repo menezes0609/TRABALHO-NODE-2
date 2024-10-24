@@ -5,7 +5,7 @@ const app = express();
 app.get("/",function(req,res){
     res.send(`
     <html>
-      <head><title></title></head>
+      <head><title>blablabla</title></head>
       <body>
         <h1>Página Inicial!(editando aqui para o commit...)</h1>
         <p>Esta é a rota principal da aplicação.</p>
